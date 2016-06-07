@@ -2,6 +2,6 @@
 The weapons of web
 
 - IDE
- + [Visual Studio](".IDE/Visual Studio.md")
- + [WebStorm](".IDE/WebStorm")
+ + [Visual Studio](.IDE/Visual Studio.md)
+ + [WebStorm](.IDE/WebStorm)
  + [PhpStorm]()
